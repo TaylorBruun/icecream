@@ -1,0 +1,25 @@
+.card{
+    background-color: rgb(250, 230, 200);
+    transition: all .1s ease;
+
+}
+.card:hover{
+    transform: scale(1.01);
+}
+
+.bg-color{
+    background-color: rgb(250, 230, 200);
+}
+
+body{
+    background-color: rgb(116, 107, 107);
+}
+
+.menu-row{
+    background-color: rgb(206, 255, 255);
+}
+
+.buy-btn{
+  
+    border-radius: 40%;
+}
